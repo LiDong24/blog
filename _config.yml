@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language: en
+title: 你是单身狗-Blog
+subtitle: 一个技术知识储藏室
+description: 涉及的主要语言为 JavaScript、Node.js、Vue.js、React、HTML5、CSS3 / JAVA、Python
+keywords: "前端, JavaScript, Vue, React, ES6"
+author: Lidong24
+language: zh-Cn
 timezone:
 
 # URL
@@ -90,7 +90,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
